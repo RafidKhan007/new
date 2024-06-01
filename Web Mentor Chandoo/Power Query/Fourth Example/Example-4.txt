@@ -1,0 +1,5 @@
+Append both sets of students
+
+Combine course and student data
+
+FIlter female students on 3 or more credit courses
